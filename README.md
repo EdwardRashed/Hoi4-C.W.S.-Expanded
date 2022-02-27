@@ -1,7 +1,7 @@
 # Hoi4-C.W.S.-Expanded
 Based off the amazing work done by u/Vezachs, this version of the Combat Width Simulator adds an option to auto-populate the terrain spread based off the user's selected continent.
 
-Notable Features (Original Work): 
+**Notable Features (Original Work): **
 
 Change the province types you're fighting in.
 Change the weights relating to from how many sides you're attacking.
@@ -12,7 +12,7 @@ This gives a more realistic view of your actual combat power.
 Version 2.0
 Now includes the overstack penalty, which discourages the use of very small divisions.
 
-Added Features:
+**Added Features:**
 
 User is now prompted to enter the ID associated with the continent of his choice
 If the selected ID is valid, the terrain types spread is automatically populated using data from the Paradox Wiki
